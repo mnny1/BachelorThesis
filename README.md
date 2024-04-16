@@ -73,9 +73,10 @@ Exact trays used in this thesis. Incomplete bounding boxes, and outliers removed
 ```
 
 ## Run the Code
-
-1. Install requirements
-2. Make sure that PyTorch is compatible with detectron2. If version error occurs refer to this [github issue](https://github.com/vllm-project/vllm/issues/1453)
+1. Clone this repository
+2. Install requirements
+3. Make sure that PyTorch is compatible with detectron2. If version error occurs refer to this [github issue](https://github.com/vllm-project/vllm/issues/1453)
+4. add data folder to root directory
 
 ### To reproduce the results on the test set
 1. run `cam_model/run_test_cam.py` to generate weighted F1, IoU, Class Activation Maps (CAMs) and segmentation masks with the pretrained ResNet-18 used in the thesis.
