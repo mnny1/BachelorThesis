@@ -9,7 +9,7 @@ This repository provides the source code for „Phenotyping of Greenhouse Imager
 **Figure 1**: Pipeline for segmentation. Refer to the method section in the thesis for more information.
 
 <p align="center">
-    <img src="readme_figures/example_input.png" alt="example_input" width="100%"/>
+    <img src="readme_figures/example_input.png" alt="example_input" width="80%"/>
 </p>
 
 **Figure 2**: Example images from [MFWD](https://doi.org/10.1038/s41597-024-02945-6) used in this thesis. Refer to the method section in the thesis for more information.
